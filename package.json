@@ -1,0 +1,25 @@
+{
+  "name": "steambot",
+  "version": "0.0.0",
+  "description": "A bot. For Steam. Hooray.",
+  "main": "scrapbank.js",
+  "dependencies": {
+    "colors": "~0.6.0-1",
+    "log": "~1.4.0",
+    "steam": "~0.6.1",
+    "steam-trade": "~0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jpumford/steambot.git"
+  },
+  "author": "Justin Pumford",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/jpumford/steambot/issues"
+  }
+}
